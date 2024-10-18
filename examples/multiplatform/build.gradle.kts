@@ -4,6 +4,6 @@ plugins {
 
 allprojects {
     repositories {
-        mavenCentral()
+        mavenCentral("https://oss.sonatype.org/content/repositories/comgoogledevtools-1095")
     }
 }
